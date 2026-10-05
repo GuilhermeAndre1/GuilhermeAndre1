@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Me chamo Guilherme e tenho 21 anos!<br><br>- 🔭 Atualmente trabalhando como Analista de MIS<br>- 📚 Atualmente cursando o Bacharelado em Ciência e Tecnologia da Universidade Federal do ABC</p>
+<p align="left">Me chamo Guilherme, tenho 22 anos!<br><br>- 🔭 Atualmente trabalhando como Desenvolvedor<br>- 📚 Atualmente cursando o Bacharelado em Ciência e Tecnologia da Universidade Federal do ABC</p>
 
 ###
 
